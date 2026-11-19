@@ -137,28 +137,6 @@ const taifDestinations: Destination[] = [
     imageSource:
       "https://commons.wikimedia.org/wiki/File:Al-Hada_mountain_road,_al-Taif_region,_Saudi_Arabia_(1).jpg",
   },
-  {
-    name: "Al Shafa",
-    description:
-      "A mountain destination known for its scenic landscapes and highland atmosphere.",
-    image:
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Al_shifa_mountain_-_panoramio.jpg",
-    category: "Mountain destination",
-    imageCredit: "Wikimedia Commons",
-    imageSource:
-      "https://commons.wikimedia.org/wiki/Category:Al-Shafa,_Ta%27if",
-  },
-  {
-    name: "Shubra Palace",
-    description:
-      "A historic palace in Taif known for its distinctive architectural character.",
-    image:
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Shubra_Palace%2C_1905%2C_al-Taif%2C_Saudi_Arabia.jpg",
-    category: "Heritage site",
-    imageCredit: "Richard Mortel",
-    imageSource:
-      "https://commons.wikimedia.org/wiki/File:Shubra_Palace,_1905,_al-Taif,_Saudi_Arabia.jpg",
-  },
 ];
 
 // Badr is a separate optional excursion from Madinah.
